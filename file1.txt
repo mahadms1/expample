@@ -3,3 +3,4 @@ hello
 this is my first project
 maha
 
+a=70
