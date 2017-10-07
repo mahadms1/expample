@@ -3,3 +3,5 @@ hello
 this is my first project
 maha
 
+a=10
+a=20
